@@ -12,14 +12,15 @@ The system may not provide 100% accurate results.
 The creator is not responsible for any malicious or illegal use of this system.
 This tool is intended for educational and research purposes only.
 
-Scan Stages
-Standard Scan
+Scan Stages:
 
-Deep Scan
+1: Standard Scan
 
-Passive Scan
+2: Deep Scan
 
-Channel Scan
+3: Passive Scan
+
+4: Channel Scan
 
 Controls
 OK → Start scan
