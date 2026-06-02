@@ -1,5 +1,6 @@
 WiFi Attack Monitoring System for M5Stack Cardputer
 
+‼️Test only on your own network.‼️
 
 This project provides a WiFi attack visualization and monitoring system designed for the M5Stack Cardputer.
 
