@@ -13,6 +13,9 @@ The system may not provide 100% accurate results.
 The creator is not responsible for any malicious or illegal use of this system.
 This tool is intended for educational and research purposes only.
 
+<img width="320" height="480" alt="cardputer" src="https://github.com/user-attachments/assets/ad06e6ec-ea6c-4959-a043-7667023f38b2" />
+
+
 Scan Stages:
 
 1: Standard Scan
