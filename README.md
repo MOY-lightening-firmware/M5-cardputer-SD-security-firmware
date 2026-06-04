@@ -10,7 +10,8 @@ You can also monitor, in real time, whether an attack is occurring and what type
 Important Notes
 The system may not provide 100% accurate results.
 
-The creator is not responsible for any malicious or illegal use of this system.
+The ownr is in no way responsible for any misuse of this system.
+
 This tool is intended for educational and research purposes only.
 
 <img width="260" height="200" alt="cardputer" src="https://github.com/user-attachments/assets/ad06e6ec-ea6c-4959-a043-7667023f38b2" />
