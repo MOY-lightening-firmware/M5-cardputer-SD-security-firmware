@@ -10,7 +10,7 @@ You can also monitor, in real time, whether an attack is occurring and what type
 Important Notes
 The system may not provide 100% accurate results.
 
-The ownr is in no way responsible for any misuse of this system.
+The ownr is in no way responsible for any misuse of this system. All responsibility lies with the user.
 
 This tool is intended for educational and research purposes only.
 
