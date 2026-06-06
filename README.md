@@ -39,3 +39,25 @@ OK → View test report
 M → Open monitor
 
 Q → Go back
+
+
+WiFi Attack Monitoring System for M5Stack Stick c plus 2
+
+<img width="300" height="250" alt="stick c" src="https://github.com/user-attachments/assets/96f06367-2e1e-43a9-9b0c-b021927b7e79" />
+
+
+‼️Test only on your own network.‼️
+
+This project provides a WiFi attack visualization and monitoring system designed for the M5Stack Stick c plus 2
+
+Important Notes
+The system may not provide 100% accurate results.
+
+The ownr is in no way responsible for any misuse of this system. All responsibility lies with the user.
+
+Controls:
+Buton A: ok
+Buton B: Navigate List
+Power Buton: Back
+
+
