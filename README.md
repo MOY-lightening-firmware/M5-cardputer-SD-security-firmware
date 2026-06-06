@@ -43,7 +43,7 @@ Q → Go back
 
 WiFi Attack Monitoring System for M5Stack Stick c plus 2
 
-<img width="300" height="250" alt="stick c" src="https://github.com/user-attachments/assets/96f06367-2e1e-43a9-9b0c-b021927b7e79" />
+<img width="250" height="300" alt="stick c" src="https://github.com/user-attachments/assets/96f06367-2e1e-43a9-9b0c-b021927b7e79" />
 
 
 ‼️Test only on your own network.‼️
