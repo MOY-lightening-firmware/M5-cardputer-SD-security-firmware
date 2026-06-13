@@ -27,7 +27,7 @@ Scan Stages:
 
 4: Channel Scan
 
-Controls
+Controls:
 OK → Start scan
 
 Arrow Keys → Navigate WiFi list
@@ -56,8 +56,12 @@ The system may not provide 100% accurate results.
 The ownr is in no way responsible for any misuse of this system. All responsibility lies with the user.
 
 Controls:
+
 Buton A: ok
+
 Buton B: Navigate List
+
 Power Buton: Back
+
 
 
