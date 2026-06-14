@@ -44,6 +44,7 @@ M5 CARDPUTER SD SECURITY V 2.0.0 GUARD EDİTİON
 
 Features added in v2: a radar system to display the average position of the attacker, and a guard mode to continuously monitor the Wi-Fi network and provide audible alerts in case of an attack.
 
+The attacker's location may not be 100% accurate.
 
 
 
