@@ -40,28 +40,13 @@ M → Open monitor
 
 Q → Go back
 
+M5 CARDPUTER SD SECURITY V 2.0.0 GUARD EDİTİON
 
-WiFi Attack Monitoring System for M5Stack Stick c plus 2
-
-<img width="250" height="300" alt="stick c" src="https://github.com/user-attachments/assets/96f06367-2e1e-43a9-9b0c-b021927b7e79" />
+Features added in v2: a radar system to display the average position of the attacker, and a guard mode to continuously monitor the Wi-Fi network and provide audible alerts in case of an attack.
 
 
-‼️Test only on your own network.‼️
 
-This project provides a WiFi attack visualization and monitoring system designed for the M5Stack Stick c plus 2
 
-Important Notes
-The system may not provide 100% accurate results.
-
-The ownr is in no way responsible for any misuse of this system. All responsibility lies with the user.
-
-Controls:
-
-Buton A: ok
-
-Buton B: Navigate List
-
-Power Buton: Back
 
 
 
