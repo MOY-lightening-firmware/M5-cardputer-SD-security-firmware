@@ -1,6 +1,6 @@
 ▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬Siber Dünya Security▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬
 
-The purpose of this project is to contribute to protecting individuals and organizations from cyber attacks in a world where technology is rapidly advancing. As digital systems become more integrated into our daily lives, the risks of cyber threats also increase. This project aims to raise awareness about cybersecurity, provide practical solutions, and develop tools that can help ensure safety in the digital environment. By focusing on prevention and resilience, it seeks to create a more secure cyberspace for everyone.
+The purpose of this project is to contribute to protecting individuals from cyber attacks in a world where technology is rapidly advancing. As digital systems become more integrated into our daily lives, the risks of cyber threats also increase. This project aims to raise awareness about cybersecurity, provide practical solutions, and develop tools that can help ensure safety in the digital environment. By focusing on prevention and resilience, it seeks to create a more secure cyberspace for everyone.
 
 
 
