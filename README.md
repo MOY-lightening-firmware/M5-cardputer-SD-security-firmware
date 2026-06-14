@@ -49,8 +49,12 @@ Features added in v2: a radar system to display the average position of the atta
 
 The attacker's location may not be 100% accurate.
 
+New features:
+
+<img width="200" height="120" alt="WhatsApp Image 2026-06-14 at 22 43 13" src="https://github.com/user-attachments/assets/28838fdb-44aa-4d98-b536-57ad3fcd373f" />
 
 
 
+<img width="200" height="120" alt="WhatsApp Image 2026-06-14 at 22 43 35" src="https://github.com/user-attachments/assets/15e2853f-7240-4122-b346-4a44f4098d61" />
 
 
